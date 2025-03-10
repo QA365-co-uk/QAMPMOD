@@ -6,7 +6,7 @@ Daniel		QA@QADelegate01003913.onmicrosoft.com	V$138767342970aj
 
 David		QA@QADelegate01003914.onmicrosoft.com	P/331532003174uc
 
-Ho Yat Yu 	QA@QADelegate01003915.onmicrosoft.com	W#718402814840on
+Kelvin 		QA@QADelegate01003915.onmicrosoft.com	W#718402814840on
 
 Iain		QA@QADelegate01003916.onmicrosoft.com	G$521676245386or
 
