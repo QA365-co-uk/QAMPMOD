@@ -1,8 +1,0 @@
-AFA STUDENT01 -	Adrian	PC01-QAMPMOD-10032025
-
-	    Lab URL:	https://www.gotomypc.com/sc/A0DEBCCA687EEF6F462291956C14BF08
-
-	      Email:   	uklk.121@qa.com
-	   Password:  	QARemoteLearning#1
-
-	Access Code:	password4902
