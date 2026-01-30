@@ -1,0 +1,239 @@
+
+----------------------------------------------------------------------------------------
+Event No: 4875781
+Centre: Glasgow (RenSt)
+Room: GL 303
+Course Code: MPMOD-BA
+Start Date: 02/02/2026
+No of AfA PC's setup : 16 Delegate's + Instructor
+----------------------------------------------------------------------------------------
+
+
+      ----- For GoToMyPC Support Please See Contact Details at bottom of Page ----- 
+
+               		 ----- ON LAST DAY OF COURSE -----
+       -- PLEASE ALSO ENSURE THAT YOU NOTIFY LOCAL COURSE SUPPORT --
+             -- WHEN YOU HAVE FINISHED WITH THE MACHINES --
+
+
+
+
+
+
+For GoToMyPC support in Glasgow (RenSt) Contact:
+
+Jeff Townsley Tel: 07741 726 597 / Email: Jeff.Townsley@qa.com
+
+
+*** NOTE CHANGE TO ACCOUNT PASSWORD ****
+
+ or Contact CourseSupport@qa.com
+
+
+
+
+AFA Instructor  -		INS-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/6ABE33DA31D4B9C8EB29E19C0A6E88DF
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.125
+
+
+
+
+
+AFA STUDENT01 -	Archana	PC01-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/D610D7F51A7B49B0A519119C0A6ECB70
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.101
+
+
+
+AFA STUDENT02 -	Jake	PC02-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/8E18A8E7A68C1ECBBFCBA19C0A6EF901
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.102
+
+
+
+AFA STUDENT03 -	Lee	PC03-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/9073A34F92699F23224AA19C0A6F22DF
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.103
+
+
+
+AFA STUDENT04 -	Ping	PC04-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/9561B4303F6D1821817C619C0A6F531C
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.104
+
+
+
+AFA STUDENT05 -	Puja	PC05-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/CA185E86DFAFF6448B11919C0A6F86B3
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.105
+
+
+
+AFA STUDENT06 -	Richard	PC06-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/5A661CFB3F4EC096BB67519C0A6FB2F7
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.106
+
+
+
+AFA STUDENT07 -	Roslyn	PC07-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/55CC8CBD5E529D7F34A6719C0A6FDF13
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.107
+
+
+
+AFA STUDENT08 -		PC08-MPMOD-BA-02022026
+
+	    Lab URL:	
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.108
+
+
+
+AFA STUDENT09 -		PC09-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/742ADD662A51EF660DBB219C0A702EB0
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.109
+
+
+
+AFA STUDENT10 -		PC10-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/0D320DA23782363E0C4B619C0A70AE64
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.110
+
+
+
+AFA STUDENT11 -		PC11-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/6F433123075047AA48E1B19C0A70F790
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.111
+
+
+
+AFA STUDENT12 -		PC12-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/7D2B80FAAD9223070CA5119C0A7126D6
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.112
+
+
+
+AFA STUDENT13 -		PC13-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/3534F10B5AC66507D06CF19C0A724457
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.113
+
+
+
+AFA STUDENT14 -		PC14-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/EB62DB162AE3FE308561719C0A73984F
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.114
+
+
+
+AFA STUDENT15 -		PC15-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/6F66ED8EF23C75F0155AC19C0A735EBB
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.115
+
+
+
+AFA STUDENT16 -		PC16-MPMOD-BA-02022026
+
+	    Lab URL:	https://www.gotomypc.com/sc/F281E7E896A0C33968EF219C0A732FA6
+
+	      Email:   	ukgl.303@qa.com
+	   Password:  	QARemoteClassroom#11
+
+	Access Code:	password3488
+	 IP Address:	192.168.1.116
+
+
